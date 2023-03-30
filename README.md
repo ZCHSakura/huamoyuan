@@ -23,12 +23,12 @@
 
 code中为本人完成的Flask后端，平台演示视频和APP，WEB前端源码上传在release中，项目中绝大部分代码来源于爬虫，爬虫代码公开于[爬虫代码](https://github.com/ZCHSakura/tradition_spider)中。
 
-[](/img/WEB首页.jpeg)
+[](https://github.com/ZCHSakura/huamoyuan/tree/main/img/WEB首页.jpeg)
 
-[](/img/WEB社区.jpeg)
+[](https://github.com/ZCHSakura/huamoyuan/tree/main/img/WEB社区.jpeg)
 
-[](/img/WEB古籍详情页.jpeg)
+[](https://github.com/ZCHSakura/huamoyuan/tree/main/img/WEB古籍详情页.jpeg)
 
-[](/img/APP时间轴.jpeg)
+[](https://github.com/ZCHSakura/huamoyuan/tree/main/img/APP时间轴.jpeg)
 
-[](/img/APP古籍展示.jpeg)
+[](https://github.com/ZCHSakura/huamoyuan/tree/main/img/APP古籍展示.jpeg)
